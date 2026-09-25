@@ -1,0 +1,11 @@
+# compiled output
+/dist
+/node_modules
+
+# env secrets - no versionar
+.env
+
+# IDE
+.idea
+.vscode
+*.log
